@@ -2,29 +2,6 @@
 
 > Phân tích dữ liệu doanh số tại Hoa Kỳ bằng Python và Power BI, tập trung vào doanh thu, lợi nhuận, sản phẩm, khách hàng, kênh bán hàng và khu vực.
 
----
-
-## 📑 Table of Contents
-
-- [1. Tổng quan dự án](#1-tổng-quan-dự-án)
-- [2. Business Problem](#2-business-problem)
-- [3. Objectives](#3-objectives)
-- [4. Dataset & Project Files](#4-dataset--project-files)
-- [5. Dataset Overview](#5-dataset-overview)
-- [6. Data Cleaning & Wrangling](#6-data-cleaning--wrangling)
-- [7. Feature Engineering](#7-feature-engineering)
-- [8. Exploratory Data Analysis](#8-exploratory-data-analysis)
-- [9. Key Business Insights](#9-key-business-insights)
-- [10. Power BI Dashboard](#10-power-bi-dashboard)
-- [11. Tech Stack](#11-tech-stack)
-- [12. End-to-End Workflow](#12-end-to-end-workflow)
-- [13. How to Run the Project](#13-how-to-run-the-project)
-- [14. Recommendations](#14-recommendations)
-- [15. Project Deliverables](#15-project-deliverables)
-- [16. Project Focus](#16-project-focus)
-- [17. Conclusion](#17-conclusion)
-
----
 
 ## 1. 📌 Tổng quan dự án
 
